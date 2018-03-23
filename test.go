@@ -1,1 +1,1 @@
-package go-lib
+package go_lib
